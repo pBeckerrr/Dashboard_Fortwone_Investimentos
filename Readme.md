@@ -2,7 +2,7 @@
 
 Este é um dashboard interativo desenvolvido com Streamlit para apresentar a análise de vendas anuais da Fortwone Investimentos. O objetivo é destacar o desempenho, identificar tendências e fornecer insights para oportunidades de melhoria para o ano de 2025.
 
-## Dashboard
+## Preview
 
 <a href="https://i.imgur.com/5SPGmuY.png">
     <img src="https://i.imgur.com/5SPGmuY.png" alt="Dashboard Preview" width="400">
