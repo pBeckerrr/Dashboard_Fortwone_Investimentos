@@ -4,7 +4,7 @@ Este é um dashboard interativo desenvolvido com Streamlit para apresentar a an�
 
 ## Dashboard
 
-[Previwe](https://imgur.com/a/aFBptfr)
+[Preview](https://i.imgur.com/5SPGmuY.png)
 
 ## Visão Geral
 
