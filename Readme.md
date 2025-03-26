@@ -2,6 +2,10 @@
 
 Este é um dashboard interativo desenvolvido com Streamlit para apresentar a análise de vendas anuais da Fortwone Investimentos. O objetivo é destacar o desempenho, identificar tendências e fornecer insights para oportunidades de melhoria para o ano de 2025.
 
+## Dashboard
+
+[Previwe](https://imgur.com/a/aFBptfr)
+
 ## Visão Geral
 
 O dashboard oferece as seguintes seções para análise:
@@ -12,9 +16,16 @@ O dashboard oferece as seguintes seções para análise:
 * **Distribuição de Idade:** Apresenta um histograma da distribuição de idade dos compradores.
 * **Tráfego Pago:** Informa o total investido em tráfego pago e sua representatividade no lucro total.
 
+## Estrutura dos Arquivos
+
+Dashboard_Fortwone_Investimentos
+├── Dashboard_Fortwone.py   # Código principal do dashboard Streamlit
+├── vendas_anuais.csv       # Arquivo contendo os dados de vendas
+└── README.md               # Este arquivo de informações
+
 ## Tecnologias Utilizadas
 
-* **Streamlit:** Framework Python para criar aplicativos web interativos para ciência de dados e machine learning.
+* **Streamlit:** Framework Python para criar aplicativos web interativos para análise de dados e machine learning.
 * **Pandas:** Biblioteca Python para análise e manipulação de dados.
 * **Plotly Express:** Biblioteca Python para criar gráficos interativos.
 
