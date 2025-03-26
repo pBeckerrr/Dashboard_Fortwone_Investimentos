@@ -4,8 +4,6 @@ Este √© um dashboard interativo desenvolvido com Streamlit para apresentar a an√
 
 ## Dashboard
 
-[Preview](https://i.imgur.com/5SPGmuY.png)
-
 <a href="https://i.imgur.com/5SPGmuY.png">
     <img src="https://i.imgur.com/5SPGmuY.png" alt="Dashboard Preview" width="400">
 </a>
